@@ -1,5 +1,5 @@
 # Anti-ZombieSuicide_Exiled
-A customizable exiled plugin that prevents SCP-049-2 from dying by jumping through a tesla/ins void.
+A customizable exiled plugin that prevents SCP-049-2 from dying by jumping through a tesla/in the void.
 
 ## Config
 |Name|Type|Default|Description|
